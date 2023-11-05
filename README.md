@@ -1,4 +1,4 @@
-## Image compressor and Uploader jquery
+## PNG-compressor-and-Uploader-jquery
 
 ~~Simple~~ Application written in Laravel 4.
 - Upload multiple images
@@ -9,7 +9,7 @@
 - Image rating system for registered users (AJAX)
 - Notification system (latest and history). Notification counter in navigation bar.
 - **New!** Upgrade to Laravel 4.1
-
+# [https://frlegendsmods.cc/](https://frlegendsmods.cc/)
 Also work on mobile devices via responsive design.
 
 [Youtube presentation](http://www.youtube.com/watch?v=3lrkrJQlNJ0) - Some features (like rating system) are not included in the presentation
